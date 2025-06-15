@@ -1,0 +1,15 @@
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+}
+.btn-primary {
+  background-color: #d6336c;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+.btn-primary:hover {
+  background-color: #a92754;
+}
